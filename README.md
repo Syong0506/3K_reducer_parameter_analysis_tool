@@ -54,7 +54,7 @@ The module version is an optimal design program that reflects the module of the 
 # 3. Precautions for Use
 ### A. Program Stopping  
 (1) When input data is not entered  
-If the Optimization button is pressed without entering all input data, the program may end or stop.
+If the Optimization button is pressed without entering all input data, the program may end or stop.  
 (2)  Module version  
 The module version may seem to stop after pressing the Optimization button because of its long computation time, but the optimization results appear after approximately 20 to 30 seconds.  
 # 4. Other inquiries
