@@ -17,7 +17,7 @@ The module version is an optimal design program that reflects the module of the 
 ### A. Gear Dimensions Version  
 (1) Enter an arbitrary value within the boundary condition for the initial value.  
 (2) Enter the boundary conditions according to the convenience of the motor or the user.  
-(3) Enter the efficiency(&eta;<sub>a, &eta;<sub>b, &eta;<sub>c) between gears.  If there is no data, enter &eta;<sub>a = 0.977, &eta;<sub>b = 0.996, &eta;<sub>c = 0.997.  
+(3) Enter the efficiency(&eta;<sub>a</sub>, &eta;<sub>b</sub>, &eta;<sub>c</sub>) between gears.  If there is no data, enter &eta;<sub>a</sub> = 0.977, &eta;<sub>b</sub> = 0.996, &eta;<sub>c</sub> = 0.997.  
 (4) If you want to remember the initial value, boundary condition, and efficiency between gears after optimization, check Remember Initialization Setting.  
 (5) A target gear ratio and a target backdrive efficiency are input.  
 (6) Select the maximum iteration number of times of optimization. The more times, the more accurate, but the longer the optimization time.  
@@ -30,7 +30,7 @@ The module version is an optimal design program that reflects the module of the 
 ### B. Gear Ratio Version
 (1) Enter an arbitrary value within the boundary condition for the initial value.  
 (2) Enter the boundary conditions according to the convenience of the motor or the user.  
-(3) Enter the efficiency(&eta;<sub>a, &eta;<sub>b, &eta;<sub>c) between gears.  If there is no data, enter &eta;<sub>a = 0.977, &eta;<sub>b = 0.996, &eta;<sub>c = 0.997.  
+(3) Enter the efficiency(&eta;<sub>a</sub>, &eta;<sub>b</sub>, &eta;<sub>c</sub>) between gears.  If there is no data, enter &eta;<sub>a</sub> = 0.977, &eta;<sub>b</sub> = 0.996, &eta;<sub>c</sub> = 0.997.  
 (4) If you want to remember the initial value, boundary condition, and efficiency between gears after optimization, check Remember Initialization Setting.  
 (5) A target gear ratio and a target backdrive efficiency are input.  
 (6) Select the maximum iteration number of times of optimization. The more times, the more accurate, but the longer the optimization time.  
@@ -42,7 +42,7 @@ The module version is an optimal design program that reflects the module of the 
 ### C. Module Version
 (1) Enter the range of the module and the spacing of the modules.
 (2) Enter the boundary conditions according to the convenience of the motor or the user.  
-(3) Enter the efficiency(&eta;<sub>a, &eta;<sub>b, &eta;<sub>c) between gears.  If there is no data, enter &eta;<sub>a = 0.977, &eta;<sub>b = 0.996, &eta;<sub>c = 0.997.  
+(3) Enter the efficiency(&eta;<sub>a</sub>, &eta;<sub>b</sub>, &eta;<sub>c</sub>) between gears.  If there is no data, enter &eta;<sub>a</sub> = 0.977, &eta;<sub>b</sub> = 0.996, &eta;<sub>c</sub> = 0.997.  
 (4) If you want to remember the initial value, boundary condition, and efficiency between gears after optimization, check Remember Initialization Setting.  
 (5) A target gear ratio and a target backdrive efficiency are input.  
 (6) Select the maximum iteration number of times of optimization. The more times, the more accurate, but the longer the optimization time.  
