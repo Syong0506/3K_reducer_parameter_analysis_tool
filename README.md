@@ -1,20 +1,4 @@
 # 3K reducer parameter analysis tool manual
-
-Contents
-1. Introduction
-    1. Program Purpose
-    2. Program Type  
-
-2. How to use
-    1. Gear Dimensions Version
-    2. Gear Ratio Version
-    3. Module Version  
-
-3. Precautions for Use
-    1. Program Stopping  
-
-4. Other inquiries
-
 # 1. Introduction
 ### A. Program Purpose
 It is a parameter analysis program for the optimal design of a 3K type compound planetary gear reducer to reduce the optimal design time due to the repetition of planetary gear reducer design and dynamic analysis.
@@ -33,7 +17,7 @@ The module version is an optimal design program that reflects the module of the 
 ### A. Gear Dimensions Version  
 (1) Enter an arbitrary value within the boundary condition for the initial value.  
 (2) Enter the boundary conditions according to the convenience of the motor or the user.  
-(3) Enter the efficiency($\eta_a$, $\eta_b$, $\eta_c$) between gears.  If there is no data, enter $\eta_a = 0.977$, $\eta_b = 0.996$, $\eta_c = 0.997$.  
+(3) Enter the efficiency(&eta<sub>a, &eta<sub>b, &eta<sub>c) between gears.  If there is no data, enter &eta<sub>a = 0.977, &eta<sub>b = 0.996, &eta<sub>c = 0.997.  
 (4) If you want to remember the initial value, boundary condition, and efficiency between gears after optimization, check Remember Initialization Setting.  
 (5) A target gear ratio and a target backdrive efficiency are input.  
 (6) Select the maximum iteration number of times of optimization. The more times, the more accurate, but the longer the optimization time.  
@@ -46,7 +30,7 @@ The module version is an optimal design program that reflects the module of the 
 ### B. Gear Ratio Version
 (1) Enter an arbitrary value within the boundary condition for the initial value.  
 (2) Enter the boundary conditions according to the convenience of the motor or the user.  
-(3) Enter the efficiency($\eta_a$, $\eta_b$, $\eta_c$) between gears.  If there is no data, enter $\eta_a = 0.977$, $\eta_b = 0.996$, $\eta_c = 0.997$.  
+(3) Enter the efficiency(&eta<sub>a, &eta<sub>b, &eta<sub>c) between gears.  If there is no data, enter &eta<sub>a = 0.977, &eta<sub>b = 0.996, &eta<sub>c = 0.997.  
 (4) If you want to remember the initial value, boundary condition, and efficiency between gears after optimization, check Remember Initialization Setting.  
 (5) A target gear ratio and a target backdrive efficiency are input.  
 (6) Select the maximum iteration number of times of optimization. The more times, the more accurate, but the longer the optimization time.  
@@ -58,7 +42,7 @@ The module version is an optimal design program that reflects the module of the 
 ### C. Module Version
 (1) Enter the range of the module and the spacing of the modules.
 (2) Enter the boundary conditions according to the convenience of the motor or the user.  
-(3) Enter the efficiency($\eta_a$, $\eta_b$, $\eta_c$) between gears.  If there is no data, enter $\eta_a = 0.977$, $\eta_b = 0.996$, $\eta_c = 0.997$.  
+(3) Enter the efficiency(&eta<sub>a, &eta<sub>b, &eta<sub>c) between gears.  If there is no data, enter &eta<sub>a = 0.977, &eta<sub>b = 0.996, &eta<sub>c = 0.997.  
 (4) If you want to remember the initial value, boundary condition, and efficiency between gears after optimization, check Remember Initialization Setting.  
 (5) A target gear ratio and a target backdrive efficiency are input.  
 (6) Select the maximum iteration number of times of optimization. The more times, the more accurate, but the longer the optimization time.  
